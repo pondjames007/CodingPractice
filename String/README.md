@@ -39,6 +39,6 @@
 
 ### Medium
 
-* [No. 848 Shifting Letters](./848_ShiftingLetters.py) ---: [Solution Video](https://www.youtube.com/watch?v=gOycoA8pOqg&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz)
+* [No. 848 Shifting Letters](./848_ShiftingLetters.py) --- [Solution Video](https://www.youtube.com/watch?v=gOycoA8pOqg&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz)
 * [NO. 792 Number of Matching Sequences](./792_NumberOfMatchingSubsequences.py) --- [Solution Video](https://www.youtube.com/watch?v=l8_vcmjQA4g&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=2)
 * [No. 763 Partition Labels](./763_PartitionLabels.py) --- [Solution Video](https://www.youtube.com/watch?v=s-1W5FDJ0lw&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=5)
