@@ -1,4 +1,4 @@
-# String
+# Binary Tree
 
 ## Concepts
 * [Trie](https://zh.wikipedia.org/wiki/Trie) -> [#208](./208_ImplementTrie.py)
