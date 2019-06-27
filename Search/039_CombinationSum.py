@@ -1,5 +1,6 @@
 # TIPS:
 # * DFS
+# * Permutation and Combination
 
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:

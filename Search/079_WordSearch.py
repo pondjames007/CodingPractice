@@ -1,6 +1,8 @@
 # TIPS:
 # * DFS
 # * go through whole board find out the first one and do dfs to all 4 directions
+# * Since the answer we want is unique and fixed length, *DFS* is better than BFS (when the depth is not super deep)
+# * DFS vs BFS in this case: Time complexity is the same, Space complexity is smaller than BFS
 
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
