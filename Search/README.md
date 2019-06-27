@@ -1,4 +1,4 @@
-# Binary Search
+# Search
 
 ## Concepts
 * stack
