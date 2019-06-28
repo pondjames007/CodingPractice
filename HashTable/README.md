@@ -24,6 +24,13 @@
 	dict = {'*ello': 'h', 'h*ello': 'e', ......}
 ```
     搜尋的時候就是把每個字元都變星號 並且不能是原本的字元
+
+* [#126](./146_LRUcache.py)</br>
+    Access to a random key in O(1) -> hash table</br>
+    Remove the last entry in LRU cache in O(1) -> linkedlist, vector</br>
+    Add/Move an entry to the front of LRU cache in O(1) -> linkedlist</br>
+        -> **bidirection Linkedlist**</br>
+        
 ## Problems
 
 ### Easy
