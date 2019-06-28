@@ -3,6 +3,11 @@
 ## Concepts
 * queue.PriorityQueue vs heapq -> heapq is faster and more flexible. PQ is safer but only does queue functionality
 * collections.OrderedDict -> [#146](./146_LRUcache.py)
+* [#146](./146_LRUcache.py)</br>
+    Access to a random key in O(1) -> hash table</br>
+    Remove the last entry in LRU cache in O(1) -> linkedlist, vector</br>
+    Add/Move an entry to the front of LRU cache in O(1) -> linkedlist</br>
+        -> **bidirection Linkedlist**</br>
 * Sort a list (defaut **ASCENDING ORDER**)-> [#451](./451_SortCharByFreq.py)</br>
     sorted(list, key= func, reverse= False)</br>
     list.sort(key= , reverse= ) </br>
@@ -19,17 +24,14 @@
     遞歸求解把解記住 若是下次遇到同樣的子問題可以直接從記憶體拿出來不用再算一次</br>
 * Fuzzy Match/Search -> [#676](./676_MagicDictionary.py)</br>
     在建立的時候把每個字元變星號與改掉的原字元存下來
+    
 ```
 	input list: ['hello']
 	dict = {'*ello': 'h', 'h*ello': 'e', ......}
 ```
+
     搜尋的時候就是把每個字元都變星號 並且不能是原本的字元
 
-* [#126](./146_LRUcache.py)</br>
-    Access to a random key in O(1) -> hash table</br>
-    Remove the last entry in LRU cache in O(1) -> linkedlist, vector</br>
-    Add/Move an entry to the front of LRU cache in O(1) -> linkedlist</br>
-        -> **bidirection Linkedlist**</br>
         
 ## Problems
 
