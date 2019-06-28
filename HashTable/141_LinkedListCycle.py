@@ -1,5 +1,6 @@
 # TIPS:
 # * Set up a table to record next node
+# * Can you solve it without using extra space?
 
 
 # Definition for singly-linked list.
@@ -19,4 +20,20 @@ class Solution(object):
                 return True
             table.setdefault(head, head.next)
             head = head.next
+        return False
+
+# Without Extra Space
+class Solution(object):
+    def hasCycle(self, head: 'ListNode') -> 'bool':
+        if not head: return False
+        quick = head
+        slow = head
+        
+        while quick:
+            if not quick.next: return False
+            quick = quick.next.next
+            slow = slow.next
+            if slow == quick:
+                return True
+        
         return False
