@@ -11,3 +11,5 @@ Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.
 6/27 Hash Table --- [#001](./HashTable/001_TwoSum.py), [#141](./HashTable/141_LinkedListCycle.py), [#139](./HashTable/139_WordBreak.py), [#676](./HashTable/676_MagicDictionary.py), [#146](./HashTable/146_LRUcache.py), [#451](./HashTable/451_SortCharByFreq.py)
 
 6/28 Math --- [#633](./Math/633_SumOfSquareNums.py), [#504](./Math/504_Base7.py), [#463](./Math/463_IslandPerimeter.py), [#241](./Math/241_DifferentWaysAddParentheses.py), [#204](./Math/204_CountPrimes.py), [#611](./Math/611_ValidTriangleNum.py)
+
+6/30 Greedy --- [#561](./Greedy/561_ArrayPartitionI.py), [#628](./Greedy/628_MaxProductOfThreeNums.py), [#455](./Greedy/455_AssignCookies.py), [#675](./Greedy/675_CutOffTrees.py)
