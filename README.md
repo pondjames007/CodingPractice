@@ -13,3 +13,5 @@ Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.
 6/28 Math --- [#633](./Math/633_SumOfSquareNums.py), [#504](./Math/504_Base7.py), [#463](./Math/463_IslandPerimeter.py), [#241](./Math/241_DifferentWaysAddParentheses.py), [#204](./Math/204_CountPrimes.py), [#611](./Math/611_ValidTriangleNum.py)
 
 6/30 Greedy --- [#561](./Greedy/561_ArrayPartitionI.py), [#628](./Greedy/628_MaxProductOfThreeNums.py), [#455](./Greedy/455_AssignCookies.py), [#675](./Greedy/675_CutOffTrees.py)
+
+7/1 Design & Data Structure --- [#295](./Design_DataStructure/295_FindMedian.py), [#380](./Design_DataStructure/380_InsDelGetRdm.py), [#381]((./Design_DataStructure/381_InsDelGetRdm_Dup.py)), [#297]((./Design_DataStructure/297_CodecBinaryTree.py)), [#677](./Design_DataStructure/677_MapSumPairs.py)
