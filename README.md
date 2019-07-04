@@ -18,4 +18,6 @@ Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.
 
 7/2 [Graph](./Graph) --- [#218](./Graph/332_ReconstructItinerary.py), [#684](./Graph/684_RedundantConnection.py), [#690](./Graph/690_EmployeeImportance.py), [#207](./Graph/207_CourseSchedule.py), [#733](./Graph/733_FloodFill.py)
 
-7/3 [Linked List](./LinkedList) --- [#725](./LinkedList/725_SplitLinkedList.py), [#817](./LinkedList/817_LinkedListComponents.py), [#148](./LinkedList/148_SortList.py), [#707](./LinkedList/707_DesignLinkedList.py)
+7/3 [Linked List](./LinkedList) --- [#725](./LinkedList/725_SplitLinkedList.py), [#817](./LinkedList/817_LinkedListComponents.py), [#148](./LinkedList/148_SortList.py), [#707](./LinkedList/707_DesignLinkedList.py), [#021](./LinkedList/021_Merge2SortedLists.py), [#023](./LinkedList/023_MergeKSortedLIsts.py)
+
+7/4 [Binary Search](./BinarySearch) --- [#729](./BinarySearch/729_MyCalendarI.py), [#744](./BinarySearch/744_FindNextSmallestLetter.py), [#540](./BinarySearch/540_SingleElementInSortedArray.py), [#719](./BinarySearch/719_FindKthSmallestPairDistance.py)

@@ -9,6 +9,7 @@
 
 * [No. 141 Linked List Cycle](../HashTable/141_LinkedListCycle.py) --- In [Hash Table](../HashTable)
 * [No. 707 Design Linked List](./707_DesignLinkedList.py) --- [Solution Video](https://www.youtube.com/watch?v=y1_lFSkQNDc&list=PLLuMmzMTgVK6a-2aAwPieEIIuIJY6JTSq&index=3)
+* [No. 021 Merge Two Sorted Lists](./021_Merge2SortedLists.py) --- [Solution Video](https://www.youtube.com/watch?v=qckKEYP9bBA&list=PLLuMmzMTgVK6a-2aAwPieEIIuIJY6JTSq&index=2)
 
 ### Medium
 
@@ -19,4 +20,4 @@
 
 ### Hard
 
-* 
+* [No. 023 Merge K Sorted Lists](./023_MergeKSortedLists.py) --- [Solution Video](https://www.youtube.com/watch?v=qckKEYP9bBA&list=PLLuMmzMTgVK6a-2aAwPieEIIuIJY6JTSq&index=1)
