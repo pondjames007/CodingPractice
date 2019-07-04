@@ -24,3 +24,4 @@
 * [No. 295 Find Median from Data Stream](./295_FindMedian.py) --- [Solution Video](https://www.youtube.com/watch?v=60xnYZ21Ir0&list=PLLuMmzMTgVK6M8XmintFnrd1VN-VBc0t0&index=12)
 * [No. 381 Insert Delete GetRandom O(1) with Duplicates Allowed](./381_InsDelGetRdm_Dup.py) --- [Solution Video](https://www.youtube.com/watch?v=y240Qh9H9uk&list=PLLuMmzMTgVK6M8XmintFnrd1VN-VBc0t0&index=9)
 * [No. 297 Serialize and Deserialize Binary Tree](./297_CodecBinaryTree.py) --- [Solution Video](https://www.youtube.com/watch?v=y240Qh9H9uk&list=PLLuMmzMTgVK6M8XmintFnrd1VN-VBc0t0&index=8)
+* [No. 432 All O(1) Data Structure](./432_AllOneDS.py) --- [Solution Video](https://www.youtube.com/watch?v=wYqLisoH80w&list=PLLuMmzMTgVK6M8XmintFnrd1VN-VBc0t0&index=3)

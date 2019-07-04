@@ -14,6 +14,8 @@ Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.
 
 6/30 [Greedy](./Greedy) --- [#561](./Greedy/561_ArrayPartitionI.py), [#628](./Greedy/628_MaxProductOfThreeNums.py), [#455](./Greedy/455_AssignCookies.py), [#675](./Greedy/675_CutOffTrees.py)
 
-7/1 [Design & Data Structure](./Design_DataStructure) --- [#295](./Design_DataStructure/295_FindMedian.py), [#380](./Design_DataStructure/380_InsDelGetRdm.py), [#381](./Design_DataStructure/381_InsDelGetRdm_Dup.py), [#297](./Design_DataStructure/297_CodecBinaryTree.py), [#677](./Design_DataStructure/677_MapSumPairs.py)
+7/1 [Design & Data Structure](./Design_DataStructure) --- [#295](./Design_DataStructure/295_FindMedian.py), [#380](./Design_DataStructure/380_InsDelGetRdm.py), [#381](./Design_DataStructure/381_InsDelGetRdm_Dup.py), [#297](./Design_DataStructure/297_CodecBinaryTree.py), [#677](./Design_DataStructure/677_MapSumPairs.py), [#432](./Design_DataStructure/432_AllOneDS.py)
 
 7/2 [Graph](./Graph) --- [#218](./Graph/332_ReconstructItinerary.py), [#684](./Graph/684_RedundantConnection.py), [#690](./Graph/690_EmployeeImportance.py), [#207](./Graph/207_CourseSchedule.py), [#733](./Graph/733_FloodFill.py)
+
+7/3 [Linked List](./LinkedList) --- [#725](./LinkedList/725_SplitLinkedList.py), [#817](./LinkedList/817_LinkedListComponents.py), [#148](./LinkedList/148_SortList.py), [#707](./LinkedList/707_DesignLinkedList.py)
