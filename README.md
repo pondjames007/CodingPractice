@@ -22,3 +22,5 @@ Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.
 
 7/4 [Binary Search](./BinarySearch) --- [#729](./BinarySearch/729_MyCalendarI.py), [#744](./BinarySearch/744_FindNextSmallestLetter.py), [#540](./BinarySearch/540_SingleElementInSortedArray.py), [#719](./BinarySearch/719_FindKthSmallestPairDistance.py)
     First Review 6/24 [String](./String) --- [#848](./String/848_ShiftingLetters.py), [#792](./String/792_NumberOfMatchingSubsequences.py), [#784](./String/784_LetterCasePermutation.py), [#763](./String/763_PartitionLabels.py), [#748](./String/748_ShortestCompletingWord.py), [#720](./String/720_LongestWordInDictionary.py)
+
+7/5 [Bit](./Bit) --- [#169](./Bit/169_MajorityElement.py), [#477](./Bit/477_TotalHammingDistance.py), [#476](./Bit/476_NumberComplement.py), [#762](./Bit/762_PrimeNumSetBits.py), [#289](./Bit/289_GameOfLife.py)
