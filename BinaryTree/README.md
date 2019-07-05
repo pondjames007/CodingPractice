@@ -14,6 +14,14 @@
     "{{}}{}".format(5) -> "{}5"
 * Post order traversal: use stack -> [#113](./113_PathSumII.py)
     [#112] -> Path Sum I
+* DFS in stack -> one stack will be good
+* BFS in stack -> 
+    * have 2 stacks, curr and next
+    * store next level nodes in next
+    * go through all nodes in curr
+    * swap curr and next, then clear next
+
+* DFS如果只是traverse 可以用stack (因為會不知道斷點 不知道什麼時候走到底了), 如果是一層一層累積的可能就得用recursion
 
 ## Problems
 

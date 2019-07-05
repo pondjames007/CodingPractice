@@ -1,14 +1,14 @@
+# TIPS:
+# * RECURSION!!!!!
+# * 2D list initialization: [[""] * w for _ in range(h)]
+# * wrong way: [[""] * w] * h -> this will make every row has the same reference
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
 #         self.val = x
 #         self.left = None
 #         self.right = None
-
-# TIPS:
-# * RECURSION!!!!!
-# * 2D list initialization: [[""] * w for _ in range(h)]
-# * wrong way: [[""] * w] * h -> this will make every row has the same reference
 
 class Solution:
     def printTree(self, root: TreeNode) -> List[List[str]]:
