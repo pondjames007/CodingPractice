@@ -16,7 +16,7 @@ Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.
 
 7/1: [Design & Data Structure](./Design_DataStructure) --- [#295](./Design_DataStructure/295_FindMedian.py), [#380](./Design_DataStructure/380_InsDelGetRdm.py), [#381](./Design_DataStructure/381_InsDelGetRdm_Dup.py), [#297](./Design_DataStructure/297_CodecBinaryTree.py), [#677](./Design_DataStructure/677_MapSumPairs.py), [#432](./Design_DataStructure/432_AllOneDS.py)
 
-7/2: [Graph](./Graph) --- [#218](./Graph/332_ReconstructItinerary.py), [#684](./Graph/684_RedundantConnection.py), [#690](./Graph/690_EmployeeImportance.py), [#207](./Graph/207_CourseSchedule.py), [#733](./Graph/733_FloodFill.py)
+7/2: [Graph](./Graph) --- [#332](./Graph/332_ReconstructItinerary.py), [#684](./Graph/684_RedundantConnection.py), [#690](./Graph/690_EmployeeImportance.py), [#207](./Graph/207_CourseSchedule.py), [#733](./Graph/733_FloodFill.py)
 
 7/3: [Linked List](./LinkedList) --- [#725](./LinkedList/725_SplitLinkedList.py), [#817](./LinkedList/817_LinkedListComponents.py), [#148](./LinkedList/148_SortList.py), [#707](./LinkedList/707_DesignLinkedList.py), [#021](./LinkedList/021_Merge2SortedLists.py), [#023](./LinkedList/023_MergeKSortedLIsts.py)
 
@@ -25,3 +25,5 @@ Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.
 
 7/5: [Bit](./Bit) --- [#169](./Bit/169_MajorityElement.py), [#477](./Bit/477_TotalHammingDistance.py), [#476](./Bit/476_NumberComplement.py), [#762](./Bit/762_PrimeNumSetBits.py), [#289](./Bit/289_GameOfLife.py)\
 * First Review 6/25 [Binary Tree](./BinaryTree) --- [#208](./BinaryTree/208_ImplementTrie.py), [#404](./BinaryTree/404_SumOfLeftLeaves.py), [#655](./BinaryTree/655_PrintBinaryTree.py), [#637](./BinaryTree/637_AvgLvlInBinaryTree.py), [#617](./BinaryTree/617_MergeTwoTrees.py), [#606](./BinaryTree/606_ConstructStringFromTree.py), [#113](./BinaryTree/113_PathSumII.py)
+
+7/8: [Geometry](./Geometry) --- [#218](./Geometry/218_TheSkylineProblem.py), [#056](./Geometry/056_MergeIntervals.py), [#057](./Geometry/057_InsertInterval.py), [#149](./Geometry/149_MaxPointsOnLine.py), [#731](./Geometry/731_MyCalendarII.py), [#452](./Geometry/452_MinNumArrowShots.py)
