@@ -27,3 +27,5 @@ Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.
 * First Review 6/25 [Binary Tree](./BinaryTree) --- [#208](./BinaryTree/208_ImplementTrie.py), [#404](./BinaryTree/404_SumOfLeftLeaves.py), [#655](./BinaryTree/655_PrintBinaryTree.py), [#637](./BinaryTree/637_AvgLvlInBinaryTree.py), [#617](./BinaryTree/617_MergeTwoTrees.py), [#606](./BinaryTree/606_ConstructStringFromTree.py), [#113](./BinaryTree/113_PathSumII.py)
 
 7/8: [Geometry](./Geometry) --- [#218](./Geometry/218_TheSkylineProblem.py), [#056](./Geometry/056_MergeIntervals.py), [#057](./Geometry/057_InsertInterval.py), [#149](./Geometry/149_MaxPointsOnLine.py), [#731](./Geometry/731_MyCalendarII.py), [#452](./Geometry/452_MinNumArrowShots.py)
+
+7/9: [Dynamic Programming](./DynamicProgramming) --- [#303](./DynamicProgramming/303_RangeSumQuery.py), [#070](./DynamicProgramming/070_ClimbingStairs.py), [#120](./DynamicProgramming/120_Triangle.py)
