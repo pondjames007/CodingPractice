@@ -28,4 +28,6 @@ Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.
 
 7/8: [Geometry](./Geometry) --- [#218](./Geometry/218_TheSkylineProblem.py), [#056](./Geometry/056_MergeIntervals.py), [#057](./Geometry/057_InsertInterval.py), [#149](./Geometry/149_MaxPointsOnLine.py), [#731](./Geometry/731_MyCalendarII.py), [#452](./Geometry/452_MinNumArrowShots.py)
 
-7/9: [Dynamic Programming](./DynamicProgramming) --- [#303](./DynamicProgramming/303_RangeSumQuery.py), [#070](./DynamicProgramming/070_ClimbingStairs.py), [#120](./DynamicProgramming/120_Triangle.py)
+7/9: [Dynamic Programming](./DynamicProgramming) --- [#303](./DynamicProgramming/303_RangeSumQuery.py), [#070](./DynamicProgramming/070_ClimbingStairs.py)
+
+7/10: [Dynamic Programming](./DynamicProgramming) --- [#120](./DynamicProgramming/120_Triangle.py), [#053](./DynamicProgramming/053_MaximumSubarray.py), [#062](./DynamicProgramming/062_UniquePaths.py)
