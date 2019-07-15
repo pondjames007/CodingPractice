@@ -2,6 +2,8 @@
 
 Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.mytechroad.com/blog/)
 
+Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium)
+
 6/24: [String](./String) --- [#848](./String/848_ShiftingLetters.py), [#792](./String/792_NumberOfMatchingSubsequences.py), [#784](./String/784_LetterCasePermutation.py), [#763](./String/763_PartitionLabels.py), [#748](./String/748_ShortestCompletingWord.py), [#720](./String/720_LongestWordInDictionary.py)
 
 6/25: [Binary Tree](./BinaryTree) --- [#208](./BinaryTree/208_ImplementTrie.py), [#404](./BinaryTree/404_SumOfLeftLeaves.py), [#655](./BinaryTree/655_PrintBinaryTree.py), [#637](./BinaryTree/637_AvgLvlInBinaryTree.py), [#617](./BinaryTree/617_MergeTwoTrees.py), [#606](./BinaryTree/606_ConstructStringFromTree.py), [#113](./BinaryTree/113_PathSumII.py)
@@ -31,3 +33,6 @@ Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.
 7/9: [Dynamic Programming](./DynamicProgramming) --- [#303](./DynamicProgramming/303_RangeSumQuery.py), [#070](./DynamicProgramming/070_ClimbingStairs.py)
 
 7/10: [Dynamic Programming](./DynamicProgramming) --- [#120](./DynamicProgramming/120_Triangle.py), [#053](./DynamicProgramming/053_MaximumSubarray.py), [#062](./DynamicProgramming/062_UniquePaths.py)
+
+7/14: [String](./String) --- [#551](./String/551_StudentAttendanceRecordI.py), [#680](./String/680_ValidPalindromeII.py), [#409](./String/409_LongestPalindrome.py), [#678](./String/678_ValidParenthesisString.py)
+* Only **HARD** and Premium [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium) left
