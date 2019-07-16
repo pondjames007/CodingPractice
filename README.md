@@ -36,3 +36,5 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 
 7/14: [String](./String) --- [#551](./String/551_StudentAttendanceRecordI.py), [#680](./String/680_ValidPalindromeII.py), [#409](./String/409_LongestPalindrome.py), [#678](./String/678_ValidParenthesisString.py)
 * Only **HARD** and Premium [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium) left
+
+7/15: [Binary Tree](./BinaryTree) --- [#100](./BinaryTree/100_SameTree.py), * [#110](./BinaryTree/110_BalancedBinaryTree.py), [#102](./BinaryTree/102_LevelOrderTraversal.py), [#671](./BinaryTree/671_2ndMinNode.py), [#669](./BinaryTree/669_TrimBinaryTree.py), [#654](./BinaryTree/654_MaximumBinaryTree.py), [#145](./BinaryTree/145_PostorderTraversal.py)
