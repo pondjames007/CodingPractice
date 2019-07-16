@@ -38,3 +38,5 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 * Only **HARD** and Premium [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium) left
 
 7/15: [Binary Tree](./BinaryTree) --- [#100](./BinaryTree/100_SameTree.py), * [#110](./BinaryTree/110_BalancedBinaryTree.py), [#102](./BinaryTree/102_LevelOrderTraversal.py), [#671](./BinaryTree/671_2ndMinNode.py), [#669](./BinaryTree/669_TrimBinaryTree.py), [#654](./BinaryTree/654_MaximumBinaryTree.py), [#145](./BinaryTree/145_PostorderTraversal.py)
+
+7/16: [Search](./Search) --- [#040](./Search/040_CombinationSumII.py), [#216](./Search/216_CombinationSumIII.py), [#017](./Search/017_LetterCombOfPhoneNum.py), [#322](./Search/322_CoinChange.py), [#787](./Search/787_CheapestFlightKStops.py), [#801](./Search/801_MinimumSwapsToSeq.py)
