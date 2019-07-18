@@ -32,17 +32,37 @@
 </br>
 	搜尋的時候就是把每個字元都變星號 並且不能是原本的字元
 
-        
+* heapq: 都是直接call 對象要放在function裡面當argument
+* 底線functions
+* 知道資料範圍的時候其實可以用list來儲存 (e.g. 英文字母就26個)
 ## Problems
 
 ### Easy
 
 * [No. 001 Two Sum](./001_TwoSum.py) --- [Solution Video](https://www.youtube.com/watch?v=tNtk_rwbaIk&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=30)
 * [No. 141 Linked List Cycle](./141_LinkedListCycle.py) --- [Solution Video](https://www.youtube.com/watch?v=bxCb37nLXWM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=29)
-
+* [No. 409 Longest Palindrome](../String/409_LongestPalindrome.py) --- In [String](../String)
+* [No. 169 Majority Element](../Bit/169_MajorityElement.py) --- In [Bit](../Bit)
+* [No. 720 Longest Word in Dictionary](../String/720_LongestWordInDictionary.py) --- In [String](../String)
+* [No. 748 Shortest Completing Word](../String/748_ShortestCompletingWord.py) --- In [String](../String)
+* [No. 438 Find All Anagrams in a String](./438_FindAllAnagramsInString.py) --- [Solution Video](https://www.youtube.com/watch?v=bxCb37nLXWM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=7)
 ### Medium
 
 * [No. 139 Word Break](./139_WordBreak.py) --- [Solution Video](https://www.youtube.com/watch?v=bxCb37nLXWM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=28), [New Version](https://www.youtube.com/watch?v=ptlwluzeC1I&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop)
 * [No. 676 Implement Magical Dictionary](./676_MagicDictionary.py) --- [Solution Video](https://www.youtube.com/watch?v=wq9XjoKMxek&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=27)
 * [No. 146 LRU Cache](./146_LRUcache.py) --- [Solution Video](https://www.youtube.com/watch?v=q1Njd3NWvlY&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=26)
 * [No. 451 Sort Characters By Frequency](./451_SortCharByFreq.py) --- [Solution Video](https://www.youtube.com/watch?v=qdpBD0LFgN0&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=25)
+* [No. 380 Insert Delete GetRandom O(1)](../Design_DataStructure/380_InsDelGetRdm.py) --- In [Design & Data Structure](../Design_DataStructure)
+* [No. 677 Map Sum Pairs](../Design_DataStructure/677_MapSumPairs.py) --- In [Design & Data Structure](../Design_DataStructure)
+* [No. 692 Top K Frequent Words](./692_TopKFreqWords.py) --- [Solution Video](https://www.youtube.com/watch?v=POERw4yDVBw&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=19)
+* [No. 347 Top K Frequent Elements](./347_TopKFreqElements.py) --- [Solution Video](https://www.youtube.com/watch?v=POERw4yDVBw&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=18)
+* [No. 763 Partition Labels](../String/763_PartitionLabels.py) --- In [String](../String)
+* [No. 792 Number of Matching Subsequences](../String/792_NumberOfMatchingSubsequences.py) --- In [String](../String)
+* [No. 560 Subarray Sum Equals K](./560_SubarraySumEqualsK.py) --- [Solution Video](https://www.youtube.com/watch?v=POERw4yDVBw&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=9)
+* [No. 567 Permutation in String](./567_PermutationInString.py) --- [Solution Video](https://www.youtube.com/watch?v=bxCb37nLXWM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=6)
+* [No. 525 Contiguous Array](./525_ContiguousArray.py) --- [Solution Video](https://www.youtube.com/watch?v=bxCb37nLXWM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=5)
+
+### Hard
+
+* [No. 381 Insert Delete GetRandom O(1) - Duplicates allowed](../Design_DataStructure/381_InsDelGetRdm_Dup.py) --- In [Design & Data Structure](../Design_DataStructure)
+* [No. 432 All O(1) Data Structure](../Design_DataStructure/432_AllOneDS.py) --- In [Design & Data Structure](../Design_DataStructure)

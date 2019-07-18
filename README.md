@@ -2,7 +2,7 @@
 
 Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.mytechroad.com/blog/)
 
-Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium)
+Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium, String), [$734](https://www.youtube.com/watch?v=KAX277fYKMM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=14)(Easy, HashTable)
 
 6/24: [String](./String) --- [#848](./String/848_ShiftingLetters.py), [#792](./String/792_NumberOfMatchingSubsequences.py), [#784](./String/784_LetterCasePermutation.py), [#763](./String/763_PartitionLabels.py), [#748](./String/748_ShortestCompletingWord.py), [#720](./String/720_LongestWordInDictionary.py)
 
@@ -35,8 +35,10 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 7/10: [Dynamic Programming](./DynamicProgramming) --- [#120](./DynamicProgramming/120_Triangle.py), [#053](./DynamicProgramming/053_MaximumSubarray.py), [#062](./DynamicProgramming/062_UniquePaths.py)
 
 7/14: [String](./String) --- [#551](./String/551_StudentAttendanceRecordI.py), [#680](./String/680_ValidPalindromeII.py), [#409](./String/409_LongestPalindrome.py), [#678](./String/678_ValidParenthesisString.py)
-* Only **HARD** and Premium [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium) left
+* [String](./String): Only **HARD** and Premium [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium) left
 
 7/15: [Binary Tree](./BinaryTree) --- [#100](./BinaryTree/100_SameTree.py), * [#110](./BinaryTree/110_BalancedBinaryTree.py), [#102](./BinaryTree/102_LevelOrderTraversal.py), [#671](./BinaryTree/671_2ndMinNode.py), [#669](./BinaryTree/669_TrimBinaryTree.py), [#654](./BinaryTree/654_MaximumBinaryTree.py), [#145](./BinaryTree/145_PostorderTraversal.py)
 
 7/16: [Search](./Search) --- [#040](./Search/040_CombinationSumII.py), [#216](./Search/216_CombinationSumIII.py), [#017](./Search/017_LetterCombOfPhoneNum.py), [#322](./Search/322_CoinChange.py), [#787](./Search/787_CheapestFlightKStops.py), [#801](./Search/801_MinimumSwapsToSeq.py)
+
+7/17: [Hash Table](./HashTable) --- [#692](./HashTable/692_TopKFreqWords.py), [#347](./HashTable/347_TopKFreqElements.py), [#560](./HashTable/560_SubarraySumEqualsK.py), [#438](./HashTable/438_FindAllAnagramsInString.py), [#567](./HashTable/567_PermutationInString.py), [#525](./HashTable/525_ContiguousArray.py)
