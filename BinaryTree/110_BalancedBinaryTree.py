@@ -16,9 +16,7 @@ class Solution:
             return self.isBalanced(root.left) and self.isBalanced(root.right)
         
         return False
-        
-        
-        return 
+
     
     def height(self, root):
         if not root: return 0

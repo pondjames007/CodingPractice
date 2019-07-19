@@ -12,9 +12,9 @@
     **wrong way**: [[""] * w] * h -> this will make every row become same reference    
 * "{}".format(5) -> "5"
     "{{}}{}".format(5) -> "{}5"
-* Post order traversal: use stack -> [#113](./113_PathSumII.py)
+* **Post order** traversal: use stack, **right tree** append first, then **reverse** the result-> [#113](./113_PathSumII.py), [#145](./145_PostorderTraversal.py)
     [#112] -> Path Sum I
-* DFS in stack -> one stack will be good
+* DFS in stack -> one stack will be good (**Preorder**)
 * BFS in stack -> 
     * have 2 stacks, curr and next
     * store next level nodes in next
@@ -22,9 +22,11 @@
     * swap curr and next, then clear next
 
 * DFS如果只是traverse 可以用stack (因為會不知道斷點 不知道什麼時候走到底了), 如果是一層一層累積的可能就得用recursion
-* Binary Search Tree:
+* Binary Search Tree: -> [#669](./669_TrimBinaryTree.py)
     * any node of *left* subtree must **<=** root val
     * any node of *right* subtree must **>** root val
+
+* list.index(value) -> get index -> [#654](./654_MaximumBinaryTree.py)
 
 ## Problems
 

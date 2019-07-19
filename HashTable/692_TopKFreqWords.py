@@ -36,7 +36,7 @@ class Solution:
             res.append(heapq.heappop(freqs)[1])
         return res[::-1]
        
-# reverse the count to make it to be smallest
+# reverse the count to make it smallest
 from collections import Counter
 import heapq
 

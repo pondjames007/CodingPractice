@@ -32,9 +32,11 @@
 </br>
 	搜尋的時候就是把每個字元都變星號 並且不能是原本的字元
 
-* heapq: 都是直接call 對象要放在function裡面當argument
-* 底線functions
-* 知道資料範圍的時候其實可以用list來儲存 (e.g. 英文字母就26個)
+* heapq: 都是直接call 對象要放在function裡面當argument -> [#692](./692_TopKFreqWords.py)
+    * heap 放tuple進去會從第一位開始排序然後第二位以此類推
+* 底線functions -> [#692](./692_TopKFreqWords.py)
+* 知道資料範圍的時候其實可以用list來儲存 (e.g. 英文字母就26個) -> [#438](./438_FindAllAnagramsInString.py), [#567](./567_PermutationInString.py)
+* sliding window / prefix sum -> sum(:j) - sum(:i) = sum(i:j) -> [#560](./560_SubarraySumEqualsK.py), [#525](./525_ContiguousArray.py)
 ## Problems
 
 ### Easy
