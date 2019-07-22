@@ -27,7 +27,7 @@
     
 ```
 	input list: ['hello']
-	dict = {'*ello': 'h', 'h*ello': 'e', ......}
+	dict = {'*ello': 'h', 'h*llo': 'e', ......}
 ```
 </br>
 	搜尋的時候就是把每個字元都變星號 並且不能是原本的字元

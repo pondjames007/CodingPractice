@@ -45,3 +45,10 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 * First Review 6/26: [Search](./Search) --- [#079](./Search/079_WordSearch.py), [#200](./Search/200_NumberOfIslands.py), [#547](./Search/547_FriendCircles.py), [#127](./Search/127_WordLadder.py), [#039](./Search/039_CombinationSum.py)
 
 7/18: [Math](./Math) --- [#268](./Math/268_MissingNumber.py), [#728](./Math/728_SelfDividingNumbers.py), [#754](./Math/754_ReachNumber.py), [#263](./Math/263_UglyNumber.py), [#264](./Math/264_UglyNumberII.py), [#069](./Math/069_SqrtX.py)
+* First Review 6/27: [Hash Table](./HashTable) --- [#001](./HashTable/001_TwoSum.py), [#141](./HashTable/141_LinkedListCycle.py), [#139](./HashTable/139_WordBreak.py), [#676](./HashTable/676_MagicDictionary.py), [#146](./HashTable/146_LRUcache.py), [#451](./HashTable/451_SortCharByFreq.py)
+
+7/19: [Greedy](./Greedy) --- [#621](./Greedy/621_TaskScheduler.py), [#826](./Greedy/826_MostProfitAssigningWork.py), [#334](./Greedy/334_IncreasingTripletSubsequence.py)
+* [Greedy](./Greedy): Only **HARD** left
+* First Review 6/28: [Math](./Math) --- [#633](./Math/633_SumOfSquareNums.py), [#504](./Math/504_Base7.py), [#463](./Math/463_IslandPerimeter.py), [#241](./Math/241_DifferentWaysAddParentheses.py), [#204](./Math/204_CountPrimes.py), [#611](./Math/611_ValidTriangleNum.py)
+
+7/21: [Design & Data Structure](./Design_DataStructure) --- 
