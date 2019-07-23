@@ -17,6 +17,8 @@
 * [No. 547 Friend Circles](../Search/547_FriendCircles.py) --- In [Search](../Search)
 * [No. 684 Redundant Connection](./684_RedundantConnection.py) --- [Solution Video](https://www.youtube.com/watch?v=4hJ721ce010&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=30)
 * [No. 207 Course Schedule](./207_CourseSchedule.py) --- [Solution Video](https://www.youtube.com/watch?v=M6SBePBMznU&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=27)
+* [No. 399 Evaluate Division](./399_EvaluateDivision.py) --- [Solution Video](https://www.youtube.com/watch?v=M6SBePBMznU&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=25)
+* [No. 743 Network Delay Time](./743_NetworkDelayTime.py) --- [Solution Video](https://www.youtube.com/watch?v=M6SBePBMznU&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=24)
 ### Hard
 
 * [No. 675 Cut Off Trees for Golf Event](../Greedy/675_CutOffTrees.py) --- In [Greedy](../Greedy)

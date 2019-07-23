@@ -2,7 +2,7 @@
 
 Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.mytechroad.com/blog/)
 
-Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium, String), [$734](https://www.youtube.com/watch?v=KAX277fYKMM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=14)(Easy, HashTable)
+Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium, String), [$734](https://www.youtube.com/watch?v=KAX277fYKMM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=14)(Easy, HashTable), [$737](https://www.youtube.com/watch?v=0rZUi3kZGLI&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=27)(Medium, Graph)
 
 6/24: [String](./String) --- [#848](./String/848_ShiftingLetters.py), [#792](./String/792_NumberOfMatchingSubsequences.py), [#784](./String/784_LetterCasePermutation.py), [#763](./String/763_PartitionLabels.py), [#748](./String/748_ShortestCompletingWord.py), [#720](./String/720_LongestWordInDictionary.py)
 
@@ -51,4 +51,7 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 * [Greedy](./Greedy): Only **HARD** left
 * First Review 6/28: [Math](./Math) --- [#633](./Math/633_SumOfSquareNums.py), [#504](./Math/504_Base7.py), [#463](./Math/463_IslandPerimeter.py), [#241](./Math/241_DifferentWaysAddParentheses.py), [#204](./Math/204_CountPrimes.py), [#611](./Math/611_ValidTriangleNum.py)
 
-7/21: [Design & Data Structure](./Design_DataStructure) --- 
+7/21: [Design & Data Structure](./Design_DataStructure) --- [#895](./Design_DataStructure/895_MaxFreqStack.py), [#745](./Design_DataStructure/745_PrefixSuffixSearch.py), [#715](./Design_DataStructure/715_RangeModule.py), [#460](./Design_DataStructure/460_LFUcache.py)
+* All [Design & Data Structure](./Design_DataStructure) are finished (715, 460 haven't watched the video)
+
+7/21: [Graph](./Graph) --- [#399](./Graph/399_EvaluateDivision.py), [#743](./Graph/743_NetworkDelayTime.py)
