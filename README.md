@@ -51,7 +51,16 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 * [Greedy](./Greedy): Only **HARD** left
 * First Review 6/28: [Math](./Math) --- [#633](./Math/633_SumOfSquareNums.py), [#504](./Math/504_Base7.py), [#463](./Math/463_IslandPerimeter.py), [#241](./Math/241_DifferentWaysAddParentheses.py), [#204](./Math/204_CountPrimes.py), [#611](./Math/611_ValidTriangleNum.py)
 
-7/21: [Design & Data Structure](./Design_DataStructure) --- [#895](./Design_DataStructure/895_MaxFreqStack.py), [#745](./Design_DataStructure/745_PrefixSuffixSearch.py), [#715](./Design_DataStructure/715_RangeModule.py), [#460](./Design_DataStructure/460_LFUcache.py)
+7/22: [Design & Data Structure](./Design_DataStructure) --- [#895](./Design_DataStructure/895_MaxFreqStack.py), [#745](./Design_DataStructure/745_PrefixSuffixSearch.py), [#715](./Design_DataStructure/715_RangeModule.py), [#460](./Design_DataStructure/460_LFUcache.py)
 * All [Design & Data Structure](./Design_DataStructure) are finished (715, 460 haven't watched the video)
 
-7/21: [Graph](./Graph) --- [#399](./Graph/399_EvaluateDivision.py), [#743](./Graph/743_NetworkDelayTime.py)
+7/22: [Graph](./Graph) --- [#399](./Graph/399_EvaluateDivision.py), [#743](./Graph/743_NetworkDelayTime.py)
+
+7/23: [SP: Algo and DS](./AlgoDS_SP) --- 
+* [Union Find Set](./AlgoDS_SP/UnionFind.py): [#684](./Graph/684_RedundantConnection.py), [#547](./Search/547_FriendCircles.py)
+* [Input Size VS Time Complexity]()
+* [Fenwick Tree](./AlgoDS_SP/FenwickTree.py): [#307](./BinaryTree/307_RangeSumQueryMutable.py)
+* [Time/Space Complexity of Recursive Algorithms](./AlgoDS_SP/RecursiveAlgos.py): [#741](./DynamicProgramming/741_CherryPickup.py), [#312](./DynamicProgramming/312_BurstBalloons.py)
+* [Binary Search](./AlgoDS_SP/BinarySearch.py): [#069](./Math/069_SqrtX.py), [#278](./BinarySearch/278_FirstBadVersion.py), [#875](./AlgoDS_SP/875_KokoEatingBananas.py), [#378](./AlgoDS_SP/378_KSmallestElementInSortedMatrix.py)
+* [Amortized Analysis](): [#901](./DynamicProgramming/901_OnlineStockSpan.py)
+* [Dynamic Programming 1](./DynamicProgramming): [#070](./DynamicProgramming/070_ClimbingStairs.py)

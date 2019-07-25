@@ -48,7 +48,9 @@
 * [No. 113 Path Sum II](./113_PathSumII.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=43)
 * [No. 102 Binary Tree Level Order Traversal](./102_LevelOrderTraversal.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=40)
 * [No. 654 Maximum Binary Tree](./654_MaximumBinaryTree.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=37)
+* [No. 307 Range Sum Query - Mutable](./307_RangeSumQueryMutable.py) --- [Solution Video](https://www.youtube.com/watch?v=WbafSgetDDk&list=PLLuMmzMTgVK5Hy1qcWYZcd7wVQQ1v0AjX&index=14)
 
 ### Hard
 
 * [No. 145 Binary Tree Postorder Traversal](./145_PostorderTraversal.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=36)
+* [No. 315](./315_) --- [Solution Video](https://www.youtube.com/watch?v=2SVLYsq5W8M&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=11)

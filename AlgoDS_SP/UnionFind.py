@@ -1,16 +1,3 @@
-# TIPS:
-# Union-Find Set
-class Solution:
-    def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
-        n = len(edges) # n points has n-1 edges but here we got one additional
-        s = UnionFindSet(n)
-        
-        for px, py in edges:
-            if(not s.Union(px, py)):
-                return [px, py]
-        
-        return []
-        
 class UnionFindSet:
     def __init__(self, n):
         self.parents = [0]*(n+1) # every node is independent, don't care 0, node i has id i
