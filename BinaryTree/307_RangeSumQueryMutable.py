@@ -34,3 +34,7 @@ class FenwickTree:
             i -= self.lowbit(i)
         
         return sum_
+
+
+
+# Use Segment Tree

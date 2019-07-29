@@ -55,3 +55,5 @@ P(nums, n, d, used, curr, ans): # list, pickNo., recursive depth, the list is us
 * [No. 322 Coin Change](./322_CoinChange.py) --- [Solution Video](https://www.youtube.com/watch?v=RSatA4uVBDQ&list=PLLuMmzMTgVK423Mj1n_OaOAZZ6k5fNxyN&index=17)
 * [No. 787 Cheapest Flight within K Stops](./787_CheapestFlightKStops.py) --- [Solution Video](https://www.youtube.com/watch?v=RSatA4uVBDQ&list=PLLuMmzMTgVK423Mj1n_OaOAZZ6k5fNxyN&index=13)
 * [No. 801 Mimimum Swaps to Make Sequence Increasing](./801_MinimumSwapsToSeq.py) --- [Solution Video](https://www.youtube.com/watch?v=RSatA4uVBDQ&list=PLLuMmzMTgVK423Mj1n_OaOAZZ6k5fNxyN&index=9)
+
+### Hard

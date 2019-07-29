@@ -55,3 +55,7 @@
 * [No. 677 Map Sum Pairs](../Design_DataStructure/677_MapSumPairs.py) --- In [Design & Data Structure](../Design_DataStructure)
 * [No. 127 Word Ladder](../Search/127_WordLadder.py) --- In [Search](../Search)
 * [No. 678 Valid Parenthesis String](../String/678_ValidParenthesisString.py) --- [Solution Video](https://www.youtube.com/watch?v=hvI-rJyG4ik&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=17)
+
+### Hard
+
+* [No. 839 Similar String Groups](./839_SimilarStringGroups.py) --- [Solution Post](https://zxi.mytechroad.com/blog/string/leetcode-839-similar-string-groups/)

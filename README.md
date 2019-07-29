@@ -57,10 +57,33 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 7/22: [Graph](./Graph) --- [#399](./Graph/399_EvaluateDivision.py), [#743](./Graph/743_NetworkDelayTime.py)
 
 7/23: [SP: Algo and DS](./AlgoDS_SP) --- 
-* [Union Find Set](./AlgoDS_SP/UnionFind.py): [#684](./Graph/684_RedundantConnection.py), [#547](./Search/547_FriendCircles.py)
-* [Input Size VS Time Complexity]()
+* [Union Find Set](./AlgoDS_SP/UnionFind.py): [#684](./Graph/684_RedundantConnection.py), [#547](./Search/547_FriendCircles.py), [$737](https://www.youtube.com/watch?v=X0_xRWMxIrA&list=PLLuMmzMTgVK7XfFadhkPuF_ztvhxbriDr&index=6),
+* [Input Size VS Time Complexity](./AlgoDS_SP/InputSizeTimeComplexity.md)
 * [Fenwick Tree](./AlgoDS_SP/FenwickTree.py): [#307](./BinaryTree/307_RangeSumQueryMutable.py)
 * [Time/Space Complexity of Recursive Algorithms](./AlgoDS_SP/RecursiveAlgos.py): [#741](./DynamicProgramming/741_CherryPickup.py), [#312](./DynamicProgramming/312_BurstBalloons.py)
+
+7/24: [SP: Algo and DS](./AlgoDS_SP) --- 
 * [Binary Search](./AlgoDS_SP/BinarySearch.py): [#069](./Math/069_SqrtX.py), [#278](./BinarySearch/278_FirstBadVersion.py), [#875](./AlgoDS_SP/875_KokoEatingBananas.py), [#378](./AlgoDS_SP/378_KSmallestElementInSortedMatrix.py)
-* [Amortized Analysis](): [#901](./DynamicProgramming/901_OnlineStockSpan.py)
-* [Dynamic Programming 1](./DynamicProgramming): [#070](./DynamicProgramming/070_ClimbingStairs.py)
+* [Amortized Analysis](./AlgoDS_SP/AmortizedAnalysis.md): [#901](./DynamicProgramming/901_OnlineStockSpan.py)
+* [Dynamic Programming I](./DynamicProgramming): [#070](./DynamicProgramming/070_ClimbingStairs.py), [#062](./DynamicProgramming/062_UniquePaths.py)
+    * 1D, 2 sets of sub-problems: [#926](), [#845]()
+    * 1D with multiple states: [#801](./Search/801_MinimumSwapsToSeq.py), [#926](), [#790](), [#818]()
+* [Dynamic Programming II](./DynamicProgramming): 
+    * 1.1 O(n): [#070](./DynamicProgramming/070_ClimbingStairs.py), [#198](), [#746](), [#790](),[#801](./Search/801_MinimumSwapsToSeq.py)
+    * 1.2 O(n): [#139](./HashTable/139_WordBreak.py), [#818]()
+    * 1.3 O(n)+O(m): [#072](), [#712]()
+    * 1.4 O(n): [#312](./DynamicProgramming/312_BurstBalloons.py), [#664](), [#673]()
+    * 1.5 O(n): [#546]()
+    * 1.6 O(n), k: [#322](), [#494]()
+    * 1.7 O(n), k: [#813]()
+    * 2.1 O(nm): [#062](), [#063](), [#064]()
+    * 2.2 O(nm): [#688](), [#576](), [#741](), [Floyd-Warshall]()
+
+7/25: [SP: Algo and DS](./AlgoDS_SP) --- 
+* [Knapsack Problem I](./AlgoDS_SP/Knapsack.py):
+* [Knapsack Problem II](./AlgoDS_SP/Knapsack.py):
+* [Trees I](./BinaryTree): [#100](), [#101](), [#951]()
+* [Segment Tree](): [#307](./BinaryTree/307_RangeSumQueryMutable.py)
+* [Binary Search II](./AlgoDS_SP/BinarySearch.py): [#278](./BinarySearch/278_FirstBadVersion.py), [#069](./Math/069_SqrtX.py)
+
+7/29: [Union Find Set](./AlgoDS_SP/UnionFind.py) --- [#685](./Graph/685_RedundantConnectionII.py), [#839](./String/839_SimilarStringGroups.py), [#959](./Graph/959_RegionsCutBySlashes.py)
