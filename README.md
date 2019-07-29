@@ -63,7 +63,7 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 * [Time/Space Complexity of Recursive Algorithms](./AlgoDS_SP/RecursiveAlgos.py): [#741](./DynamicProgramming/741_CherryPickup.py), [#312](./DynamicProgramming/312_BurstBalloons.py)
 
 7/24: [SP: Algo and DS](./AlgoDS_SP) --- 
-* [Binary Search](./AlgoDS_SP/BinarySearch.py): [#069](./Math/069_SqrtX.py), [#278](./BinarySearch/278_FirstBadVersion.py), [#875](./AlgoDS_SP/875_KokoEatingBananas.py), [#378](./AlgoDS_SP/378_KSmallestElementInSortedMatrix.py)
+* [Binary Search](./AlgoDS_SP/BinarySearch.py): [#069](./Math/069_SqrtX.py), [#278](./BinarySearch/278_FirstBadVersion.py), [#875](./BinarySearch/875_KokoEatingBananas.py), [#378](./BinarySearch/378_KSmallestElementInSortedMatrix.py)
 * [Amortized Analysis](./AlgoDS_SP/AmortizedAnalysis.md): [#901](./DynamicProgramming/901_OnlineStockSpan.py)
 * [Dynamic Programming I](./DynamicProgramming): [#070](./DynamicProgramming/070_ClimbingStairs.py), [#062](./DynamicProgramming/062_UniquePaths.py)
     * 1D, 2 sets of sub-problems: [#926](), [#845]()
@@ -87,3 +87,5 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 * [Binary Search II](./AlgoDS_SP/BinarySearch.py): [#278](./BinarySearch/278_FirstBadVersion.py), [#069](./Math/069_SqrtX.py)
 
 7/29: [Union Find Set](./AlgoDS_SP/UnionFind.py) --- [#685](./Graph/685_RedundantConnectionII.py), [#839](./String/839_SimilarStringGroups.py), [#959](./Graph/959_RegionsCutBySlashes.py)
+
+7/29: [Dynamic Programming](./DynamicProgramming) --- [#901](./DynamicProgramming/901_OnlineStockSpan.py), [#926](./DynamicProgramming/926_FlipString2MonotoneIncreasing.py)
