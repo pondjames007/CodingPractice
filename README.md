@@ -2,7 +2,7 @@
 
 Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.mytechroad.com/blog/)
 
-Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium, String), [$734](https://www.youtube.com/watch?v=KAX277fYKMM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=14)(Easy, HashTable), [$737](https://www.youtube.com/watch?v=0rZUi3kZGLI&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=27)(Medium, Graph)
+Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium, String), [$734](https://www.youtube.com/watch?v=KAX277fYKMM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=14)(Easy, HashTable), [$737](https://www.youtube.com/watch?v=0rZUi3kZGLI&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=27)(Medium, Graph), [$683](https://www.youtube.com/watch?v=K8Nk0AiIX4s&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=26)(Hard, BinaryTree)
 
 6/24: [String](./String) --- [#848](./String/848_ShiftingLetters.py), [#792](./String/792_NumberOfMatchingSubsequences.py), [#784](./String/784_LetterCasePermutation.py), [#763](./String/763_PartitionLabels.py), [#748](./String/748_ShortestCompletingWord.py), [#720](./String/720_LongestWordInDictionary.py)
 
@@ -100,3 +100,4 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 8/1: [Geometry](./Geometry) --- [#973](./Geometry/973_KClosestPointsToOrigin.py)
 * [Geometry](./Geometry): Only **HARD** left
 
+8/1: [Binary Tree](./BinaryTree) --- [#687](./BinaryTree/687_LongestUnivaluePath.py), [#543](./BinaryTree/543_DiameterOfBinaryTree.py)

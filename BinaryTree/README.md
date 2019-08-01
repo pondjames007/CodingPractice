@@ -27,6 +27,7 @@
     * any node of *right* subtree must **>** root val
 
 * list.index(value) -> get index -> [#654](./654_MaximumBinaryTree.py)
+* Traverse的時候如果終止條件之後直接先跑遞迴 可以變bottom-up
 
 ## Problems
 
@@ -40,6 +41,9 @@
 * [No. 110 Balanced Binary Tree](./110_BalancedBinaryTree.py) --- [Solution Video](https://www.youtube.com/watch?v=EggWOgUnt2M&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=41)
 * [No. 671 Second Minimum Node in a Binary Tree](./671_2ndMinNode.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=39)
 * [No. 669 Trim a Binary Search Tree](./BinaryTree/669_TrimBinaryTree.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=38)
+* [No. 690 Employee Importance](./Graph/690_EmployeeImportance.py) --- In [Graph](../Graph)
+* [No. 687 Longest Univalue Path](./687_LongestUnivaluePath.py) --- [Solution Video](https://www.youtube.com/watch?v=yX1hVhcHcH8&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=25)
+* [No. 543 Diameter of Binary Tree](./BinaryTree/543_DiameterOfBinaryTree.py) --- [Solution Video](https://www.youtube.com/watch?v=yX1hVhcHcH8&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=24)
 
 ### Medium
 
@@ -49,8 +53,15 @@
 * [No. 102 Binary Tree Level Order Traversal](./102_LevelOrderTraversal.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=40)
 * [No. 654 Maximum Binary Tree](./654_MaximumBinaryTree.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=37)
 * [No. 307 Range Sum Query - Mutable](./307_RangeSumQueryMutable.py) --- [Solution Video](https://www.youtube.com/watch?v=WbafSgetDDk&list=PLLuMmzMTgVK5Hy1qcWYZcd7wVQQ1v0AjX&index=14)
-
+* [No. 332 Reconstruct Itinerary](../Graph/332_ReconstructItinerary.py) --- In [Graph](../Graph)
+* [No. 677 Map Sum Pairs](../Design_DataStructure/677_MapSumPairs.py) --- In [Design & Data Structure](../Design_DataStructure)
+* [No. 684 Redundant Connection](./Graph/684_RedundantConnection.py) --- In [Graph](../Graph)
 ### Hard
 
 * [No. 145 Binary Tree Postorder Traversal](./145_PostorderTraversal.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=36)
+* [No. 295 Find Median from Data Stream](../Design_DataStructure/295_FindMedian.py) --- In [Design & Data Structure](../Design_DataStructure)
+* [No. 460 LFU Cache](../Design_DataStructure/460_LFUcache.py) --- In [Design & Data Structure](../Design_DataStructure)
+* [No. 297 Serialize and Deserialize Binary Tree](../Design_DataStructure/297_CodecBinaryTree.py) --- In [Design & Data Structure](../Design_DataStructure)
+* [No. 218 The Skyline Problem](./Geometry/218_TheSkylineProblem.py) --- In [Geometry](../Geometry)
+* [No. 685 Redundant Connection II](../Graph/685_RedundantConnectionII.py) --- In [Graph](./Graph)
 * [No. 315](./315_) --- [Solution Video](https://www.youtube.com/watch?v=2SVLYsq5W8M&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=11)
