@@ -17,6 +17,7 @@ C++ version is good
 * bin(num): return binary string with least requirement bits, and with prefix '0b' for positive and '-0b' for negative
 * ~n: '~' takes compliment -> return -n-1
 * prime number: go through 2 to n/2, or sqrt(n), and check if it can be divided -> [#762](./762_PrimeNumSetBits.py)
+* set | set -> 聯集 -> [#898](./898_BitwiseORSubarrays.py)
 ## Problems
 
 ### Easy
@@ -29,3 +30,5 @@ C++ version is good
 
 * [No. 477 Total Hamming Distance](./477_TotalHammingDistance.py) --- [Solution Video](https://www.youtube.com/watch?v=LPIvL-jvGdA&list=PLLuMmzMTgVK7t8spH-USywHZLtt2aM5Ue&index=7)
 * [No. 289 Game of Life](./289_GameOfLife.py) --- [Solution Video](https://www.youtube.com/watch?v=LPIvL-jvGdA&list=PLLuMmzMTgVK7t8spH-USywHZLtt2aM5Ue&index=4)
+* [No. 078 Subsets](./078_Subsets.py) --- [Solution Video](https://www.youtube.com/watch?v=CUzm-buvH_8&list=PLLuMmzMTgVK7t8spH-USywHZLtt2aM5Ue&index=2)
+* [No. 898 Bitwise ORs of Subarrays](./898_BitwiseORSubarrays.py) --- [Solution Video](./https://www.youtube.com/watch?v=E_0BhmAUVNQ&list=PLLuMmzMTgVK7t8spH-USywHZLtt2aM5Ue&index=3)

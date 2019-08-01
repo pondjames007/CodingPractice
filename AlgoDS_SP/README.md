@@ -38,8 +38,8 @@ No Video
 
 ### Related Problems
 [#070](../DynamicProgramming/070_ClimbingStairs.py), [#062](../DynamicProgramming/062_UniquePaths.py)
-    * 1D, 2 sets of sub-problems: [#926](), [#845]()
-    * 1D with multiple states: [#801](./Search/801_MinimumSwapsToSeq.py), [#926](), [#790](), [#818]()
+    * 1D, 2 sets of sub-problems: [#926](../DynamicProgramming/926_FlipString2MonotoneIncreasing.py), No Video: [#845]()
+    * 1D with multiple states: [#801](../Search/801_MinimumSwapsToSeq.py), [#926](../DynamicProgramming/926_FlipString2MonotoneIncreasing.py), [#790](../DynamicProgramming/790_DominoTrominoTiling.py), [#818]()
 ## Dynamic Programming II
 * Template: [Dynamic Programming Types](./DynamicProgramming_Types.py)
 

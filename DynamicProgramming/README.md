@@ -20,3 +20,5 @@
 * [No. 312 Burst Balloons](./312_BurstBalloons.py) --- [Solution Video](https://www.youtube.com/watch?v=fmpP5Ll0Azc&list=PLLuMmzMTgVK7vEbeHBDD42pqqG36jhuOr&index=78)
 * [No. 901 Online Stock Span](./901_OnlineStockSpan.py) --- [Solution Video](https://www.youtube.com/watch?v=RGRC46zHB98&list=PLLuMmzMTgVK7vEbeHBDD42pqqG36jhuOr&index=19)
 * [No. 926 Flip String to Monotone Increasing](./926_FlipString2MonotoneIncreasing.py) --- [Solution Video](https://www.youtube.com/watch?v=D8xa8ZMV7AI&list=PLLuMmzMTgVK7vEbeHBDD42pqqG36jhuOr&index=18)
+* [No. 801 Mimimum Swaps to Make Sequence Increasing](../Search/801_MinimumSwapsToSeq.py) --- In [Search](../Search)
+* [No. 790 Domino and Tromino Tiling](./790_DominoTrominoTiling.py) --- [Solution Video](https://www.youtube.com/watch?v=S-fUTfqrdq8&list=PLLuMmzMTgVK7vEbeHBDD42pqqG36jhuOr&index=41)

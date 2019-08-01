@@ -44,3 +44,4 @@
 ### Hard
 
 * [No. 719 Find K-th Smallest Pair Distance](./719_FindKthSmallestPairDistance.py) --- [Solution Video](https://www.youtube.com/watch?v=seQnf-5hlBo&list=PLLuMmzMTgVK74vqU7Ukaf70a382dzF3Uo&index=14)
+* [No. 004 Median of Two Sorted Arrays](./004_MedianOf2SortedArrays.py) --- [Solution Video](https://www.youtube.com/watch?v=KB9IcSCDQ9k&list=PLLuMmzMTgVK74vqU7Ukaf70a382dzF3Uo&index=13) NOT YET

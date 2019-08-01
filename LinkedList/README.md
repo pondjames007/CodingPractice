@@ -21,3 +21,5 @@
 ### Hard
 
 * [No. 023 Merge K Sorted Lists](./023_MergeKSortedLists.py) --- [Solution Video](https://www.youtube.com/watch?v=qckKEYP9bBA&list=PLLuMmzMTgVK6a-2aAwPieEIIuIJY6JTSq&index=1)
+* [No. 460 LFU Cache](../Design_DataStructure/460_LFUcache.py) --- In [Design & Data Structure](../Design_DataStructure)
+* [No. 432 All O(1) Data Structure](../Design_DataStructure/432_AllOneDS.py) --- In [Design & Data Structure](../Design_DataStructure)

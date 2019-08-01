@@ -21,9 +21,11 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 7/2: [Graph](./Graph) --- [#332](./Graph/332_ReconstructItinerary.py), [#684](./Graph/684_RedundantConnection.py), [#690](./Graph/690_EmployeeImportance.py), [#207](./Graph/207_CourseSchedule.py), [#733](./Graph/733_FloodFill.py)
 
 7/3: [Linked List](./LinkedList) --- [#725](./LinkedList/725_SplitLinkedList.py), [#817](./LinkedList/817_LinkedListComponents.py), [#148](./LinkedList/148_SortList.py), [#707](./LinkedList/707_DesignLinkedList.py), [#021](./LinkedList/021_Merge2SortedLists.py), [#023](./LinkedList/023_MergeKSortedLIsts.py)
+* [Linked List](./LinkedList) **FINISHED**
 
 7/4: [Binary Search](./BinarySearch) --- [#729](./BinarySearch/729_MyCalendarI.py), [#744](./BinarySearch/744_FindNextSmallestLetter.py), [#540](./BinarySearch/540_SingleElementInSortedArray.py), [#719](./BinarySearch/719_FindKthSmallestPairDistance.py)
 * First Review 6/24 [String](./String) --- [#848](./String/848_ShiftingLetters.py), [#792](./String/792_NumberOfMatchingSubsequences.py), [#784](./String/784_LetterCasePermutation.py), [#763](./String/763_PartitionLabels.py), [#748](./String/748_ShortestCompletingWord.py), [#720](./String/720_LongestWordInDictionary.py)
+* [Binary Search](./BinarySearch): Only **HARD** left
 
 7/5: [Bit](./Bit) --- [#169](./Bit/169_MajorityElement.py), [#477](./Bit/477_TotalHammingDistance.py), [#476](./Bit/476_NumberComplement.py), [#762](./Bit/762_PrimeNumSetBits.py), [#289](./Bit/289_GameOfLife.py)
 * First Review 6/25 [Binary Tree](./BinaryTree) --- [#208](./BinaryTree/208_ImplementTrie.py), [#404](./BinaryTree/404_SumOfLeftLeaves.py), [#655](./BinaryTree/655_PrintBinaryTree.py), [#637](./BinaryTree/637_AvgLvlInBinaryTree.py), [#617](./BinaryTree/617_MergeTwoTrees.py), [#606](./BinaryTree/606_ConstructStringFromTree.py), [#113](./BinaryTree/113_PathSumII.py)
@@ -89,3 +91,12 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 7/29: [Union Find Set](./AlgoDS_SP/UnionFind.py) --- [#685](./Graph/685_RedundantConnectionII.py), [#839](./String/839_SimilarStringGroups.py), [#959](./Graph/959_RegionsCutBySlashes.py)
 
 7/29: [Dynamic Programming](./DynamicProgramming) --- [#901](./DynamicProgramming/901_OnlineStockSpan.py), [#926](./DynamicProgramming/926_FlipString2MonotoneIncreasing.py)
+
+7/30: [Dynamic Programming](./DynamicProgramming) --- [#790](./DynamicProgramming/790_DominoTrominoTiling.py)
+
+8/1: [Bit](./Bit) --- [#078](./Bit/078_Subsets.py), [#898](./Bit/BitwiseORSubarrays.py)
+* [Bit](./Bit): Only **HARD** left
+
+8/1: [Geometry](./Geometry) --- [#973](./Geometry/973_KClosestPointsToOrigin.py)
+* [Geometry](./Geometry): Only **HARD** left
+
