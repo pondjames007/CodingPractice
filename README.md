@@ -105,5 +105,5 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 8/2: [Search](./Search) --- [#967](./Search/967_NumbersWithSameConsecutiveDiff.py), [#417](./Search/417_PacificAtlanticWaterFlow.py)
 * [Search](./Search): Only **HARD** left
 
-8/2: [Graph](./Graph) --- [#210](./Graph//210_CourseScheduleII.py), [#841](./Graph/841_KeysAndRooms.py), [#802](./Graph/802_FindEventualSafeState.py), [#886](./Graph/886_PossibleBipartition.py)
+8/2: [Graph](./Graph) --- [#210](./Graph/210_CourseScheduleII.py), [#841](./Graph/841_KeysAndRooms.py), [#802](./Graph/802_FindEventualSafeState.py), [#886](./Graph/886_PossibleBipartition.py)
 
