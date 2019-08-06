@@ -2,7 +2,7 @@
 
 Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.mytechroad.com/blog/)
 
-Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium, String), [$734](https://www.youtube.com/watch?v=KAX277fYKMM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=14)(Easy, HashTable), [$737](https://www.youtube.com/watch?v=0rZUi3kZGLI&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=27)(Medium, Graph), [$683](https://www.youtube.com/watch?v=K8Nk0AiIX4s&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=26)(Hard, BinaryTree)
+Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium, String), [$734](https://www.youtube.com/watch?v=KAX277fYKMM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=14)(Easy, HashTable), [$737](https://www.youtube.com/watch?v=0rZUi3kZGLI&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=27)(Medium, Graph), [$683](https://www.youtube.com/watch?v=K8Nk0AiIX4s&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=26)(Hard, BinaryTree), [$742](https://www.youtube.com/watch?v=x1wXkRrpavw&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=22) (Medium, Graph)
 
 6/24: [String](./String) --- [#848](./String/848_ShiftingLetters.py), [#792](./String/792_NumberOfMatchingSubsequences.py), [#784](./String/784_LetterCasePermutation.py), [#763](./String/763_PartitionLabels.py), [#748](./String/748_ShortestCompletingWord.py), [#720](./String/720_LongestWordInDictionary.py)
 
@@ -101,3 +101,9 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 * [Geometry](./Geometry): Only **HARD** left
 
 8/1: [Binary Tree](./BinaryTree) --- [#687](./BinaryTree/687_LongestUnivaluePath.py), [#543](./BinaryTree/543_DiameterOfBinaryTree.py)
+
+8/2: [Search](./Search) --- [#967](./Search/967_NumbersWithSameConsecutiveDiff.py), [#417](./Search/417_PacificAtlanticWaterFlow.py)
+* [Search](./Search): Only **HARD** left
+
+8/2: [Graph](./Graph) --- [#210](./Graph//210_CourseScheduleII.py), [#841](./Graph/841_KeysAndRooms.py), [#802](./Graph/802_FindEventualSafeState.py), [#886](./Graph/886_PossibleBipartition.py)
+
