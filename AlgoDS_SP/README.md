@@ -44,15 +44,15 @@ No Video
 * Template: [Dynamic Programming Types](./DynamicProgramming_Types.py)
 
 ### Related Problems
-    * 1.1 O(n): [#070](./DynamicProgramming/070_ClimbingStairs.py), [#198](), [#746](), [#790](),[#801](./Search/801_MinimumSwapsToSeq.py)
-    * 1.2 O(n): [#139](./HashTable/139_WordBreak.py), [#818]()
-    * 1.3 O(n)+O(m): [#072](), [#712]()
-    * 1.4 O(n): [#312](./DynamicProgramming/312_BurstBalloons.py), [#664](), [#673]()
-    * 1.5 O(n): [#546]()
-    * 1.6 O(n), k: [#322](), [#494]()
-    * 1.7 O(n), k: [#813]()
-    * 2.1 O(nm): [#062](), [#063](), [#064]()
-    * 2.2 O(nm): [#688](), [#576](), [#741](), [Floyd-Warshall]()
+* 1.1 O(n): [#070](../DynamicProgramming/070_ClimbingStairs.py), [#198](../DynamicProgramming/198_HouseRobber.py), [#746](../DynamicProgramming/746_MinCostClimbingStairs.py), [#790](../DynamicProgramming/790_DominoTrominoTiling.py),[#801](./Search/801_MinimumSwapsToSeq.py)
+* 1.2 O(n): [#139](../HashTable/139_WordBreak.py), [#818]()
+* 1.3 O(n)+O(m): [#072](../DynamicProgramming/072_EditDistance.py), [#712](../DynamicProgramming/712_MinASCIIDeleteSumFor2String.py)
+* 1.4 O(n): [#312](../DynamicProgramming/312_BurstBalloons.py), [#664](), [#673](../DynamicProgramming/673_NumLongestIncreasingSubsequence.py)
+* 1.5 O(n): [#546]()
+* 1.6 O(n), k: [#322](../Search/322_CoinChange.py), [#494](../DynamicProgramming/494_TargetSum.py)
+* 1.7 O(n), k: [#813](../DynamicProgramming/813_LargestSumOfAvgs.py)
+* 2.1 O(nm): [#062](), [#063](), [#064]()
+* 2.2 O(nm): [#688](), [#576](), [#741](), [Floyd-Warshall]()
 
 ## Knapsack Problem I
 * Template: [Knapsack Prbolem](./Knapsack.py)

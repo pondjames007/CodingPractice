@@ -1,6 +1,22 @@
 # TIPS:
 # USE DP
-
+# dp[i] := min num of coins to have value i
+# dp[i] = min(dp[i-x] for x in coins)
+# slower than greedy
+class Solution:
+    def coinChange(self, coins: List[int], amount: int) -> int:
+        coins.sort()
+        
+        # dp[i] := min num of coins to have value i
+        dp = [-1]*(amount+1)
+        dp[0] = 0
+        
+        for i in range(1, amount+1):
+            nums = [dp[i-x] for x in coins if i-x >= 0 and dp[i-x] >= 0]
+            if nums:
+                dp[i] = min(nums)+1
+            
+        return dp[-1]
 
 
 # USE DFS
@@ -32,4 +48,6 @@ class Solution:
                 if count + k >= ans[0]: continue
                 
                 self.lookup(coins, amount-i*coin, idx+1, count+i, ans)
+        
+
         

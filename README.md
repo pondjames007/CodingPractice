@@ -107,3 +107,6 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 
 8/2: [Graph](./Graph) --- [#210](./Graph/210_CourseScheduleII.py), [#841](./Graph/841_KeysAndRooms.py), [#802](./Graph/802_FindEventualSafeState.py), [#886](./Graph/886_PossibleBipartition.py)
 
+8/6: [Dynamic Programming](./DynamicProgramming) --- [#198](./DynamicProgramming/198_HouseRobber.py), [#746](./DynamicProgramming/746_MinCostClimbingStairs.py), [#712](./DynamicProgramming/712_MinASCIIDeleteSumFor2String.py), [#072](./DynamicProgramming/072_EditDistance.py), [#673](./DynamicProgramming/673_NumLongestIncreasingSubsequence.py)
+
+8/7: [Dynamic Programming](./DynamicProgramming) --- [#494](./DynamicProgramming/494_TargetSum.py), [#813](./DynamicProgramming/813_LargestSumOfAvgs.py)
