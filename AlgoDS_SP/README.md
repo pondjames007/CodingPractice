@@ -51,8 +51,8 @@ No Video
 * 1.5 O(n): [#546]()
 * 1.6 O(n), k: [#322](../Search/322_CoinChange.py), [#494](../DynamicProgramming/494_TargetSum.py)
 * 1.7 O(n), k: [#813](../DynamicProgramming/813_LargestSumOfAvgs.py)
-* 2.1 O(nm): [#062](), [#063](), [#064]()
-* 2.2 O(nm): [#688](), [#576](), [#741](), [Floyd-Warshall]()
+* 2.1 O(nm): [#062](../DynamicProgramming/062_UniquePaths.py), [#063](../DynamicProgramming/063_UniquePathsII.py), [#064](../DynamicProgramming/064_MinPathSum.py)
+* 2.2 O(nm): [#688](../DynamicProgramming/688_KnightProbabilityInChessboard.py), [#576](../DynamicProgramming/576_OutOfBoundaryPaths.py), [#741](), [Floyd-Warshall]()
 
 ## Knapsack Problem I
 * Template: [Knapsack Prbolem](./Knapsack.py)
@@ -63,13 +63,14 @@ No Video
 ## Trees I
 
 ### Related Problems
-[#100](), [#101](), [#951]()
+* One Root: [#104](../BinaryTree/104_MaxDepthOfBinaryTree.py), [#111](../BinaryTree/111_MinDepthOfBinaryTree.py), [#112](../BinaryTree/112_PathSum.py)
+* Two Roots: [#100](../BinaryTree/100_SameTree.py), [#101](../BinaryTree/101_SymmetricTree.py), [#951](../BinaryTree/951_FlipEquivalentBinaryTrees.py)
 
 ## Segment Tree
 * Template: [Segment Tree](./SegmentTree.py)
 
 ### Related Problems
-[#307](./BinaryTree/307_RangeSumQueryMutable.py)
+[#307](../BinaryTree/307_RangeSumQueryMutable.py)
 
 ## Binary Search II
 

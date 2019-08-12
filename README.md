@@ -110,3 +110,9 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 8/6: [Dynamic Programming](./DynamicProgramming) --- [#198](./DynamicProgramming/198_HouseRobber.py), [#746](./DynamicProgramming/746_MinCostClimbingStairs.py), [#712](./DynamicProgramming/712_MinASCIIDeleteSumFor2String.py), [#072](./DynamicProgramming/072_EditDistance.py), [#673](./DynamicProgramming/673_NumLongestIncreasingSubsequence.py)
 
 8/7: [Dynamic Programming](./DynamicProgramming) --- [#494](./DynamicProgramming/494_TargetSum.py), [#813](./DynamicProgramming/813_LargestSumOfAvgs.py)
+
+8/9: [Dynamic Programming](./DynamicProgramming) --- [#063](./DynamicProgramming/063_UniquePathsII.py), [#064](./DynamicProgramming/064_MinPathSum.py), [#688](./DynamicProgramming/688_KnightProbabilityInChessboard.py), [#576](./DynamicProgramming/576_OutOfBoundaryPaths.py)
+
+8/9: [Binary Tree](./BinaryTree) --- [#104](./BinaryTree/104_MaxDepthOfBinaryTree.py), [#111](./BinaryTree/111_MinDepthOfBinaryTree.py), [#112](./BinaryTree/112_PathSum.py), [#101](./BinaryTree/101_SymmetricTree.py), [#951](./BinaryTree/951_FlipEquivalentBinaryTrees.py)
+
+8/12: 

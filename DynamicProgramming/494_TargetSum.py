@@ -61,6 +61,28 @@ class Solution:
         return
 
 # DP
+# dp[i][j] := sum j using first i elements
+# dp[i][j] = dp[i-1][j-nums[i-1]] + dp[i-1][j+nums[i-1]]
+# dp[0][0] = 1 -> Special Case
+# since it is sparse, you can use hash table to store the value
+class Solution:
+    def findTargetSumWays(self, nums, S):
+        if not nums:
+            return 0
+        
+        n = len(nums)
+        s_range = sum(nums)
+        dp = [[0]*(2*s_range+1) for _ in range(n+1)]
+        dp[0][0] = 1
+
+
+        for i in range(1, n+1):
+            for j in range(-s_range,s_range+1):
+                dp[i][j] = dp[i-1][j-nums[i-1]] + dp[i-1][j+nums[i-1]]
+                
+        return dp[n][S] if S <= s_range and S >= -s_range else 0
+
+# DP
 # use dict instead of array since we only need some of the results in a range
 class Solution:
     def findTargetSumWays(self, nums, S):
@@ -68,9 +90,12 @@ class Solution:
             return 0
         dic = {nums[0]: 1, -nums[0]: 1} if nums[0] != 0 else {0: 2}
         for i in range(1, len(nums)):
-            tdic = {}
+            dp = {}
             for d in dic:
-                tdic[d + nums[i]] = tdic.get(d + nums[i], 0) + dic.get(d, 0)
-                tdic[d - nums[i]] = tdic.get(d - nums[i], 0) + dic.get(d, 0)
-            dic = tdic
+                dp[d + nums[i]] = dp.get(d + nums[i], 0) + dic.get(d, 0)
+                dp[d - nums[i]] = dp.get(d - nums[i], 0) + dic.get(d, 0)
+            dic = dp
         return dic.get(S, 0)
+
+
+        

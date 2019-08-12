@@ -28,6 +28,9 @@
 
 * list.index(value) -> get index -> [#654](./654_MaximumBinaryTree.py)
 * Traverse的時候如果終止條件之後直接先跑遞迴 可以變bottom-up
+*  if there is a child, the depth should keep counting -> [#111](./111_MinDepthOfBinaryTree.py) 
+ -> if not root.left return self.minDepth(root.right) + 1 
+ -> if not root right return self.minDepth(root.left) + 1
 
 ## Problems
 
@@ -40,10 +43,14 @@
 * [No. 100 Same Tree](./100_SameTree.py) --- [Solution Video](https://www.youtube.com/watch?v=EggWOgUnt2M&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=42)
 * [No. 110 Balanced Binary Tree](./110_BalancedBinaryTree.py) --- [Solution Video](https://www.youtube.com/watch?v=EggWOgUnt2M&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=41)
 * [No. 671 Second Minimum Node in a Binary Tree](./671_2ndMinNode.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=39)
-* [No. 669 Trim a Binary Search Tree](./BinaryTree/669_TrimBinaryTree.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=38)
+* [No. 669 Trim a Binary Search Tree](./669_TrimBinaryTree.py) --- [Solution Video](https://www.youtube.com/watch?v=zrN2dxtQ0f0&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=38)
 * [No. 690 Employee Importance](./Graph/690_EmployeeImportance.py) --- In [Graph](../Graph)
 * [No. 687 Longest Univalue Path](./687_LongestUnivaluePath.py) --- [Solution Video](https://www.youtube.com/watch?v=yX1hVhcHcH8&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=25)
-* [No. 543 Diameter of Binary Tree](./BinaryTree/543_DiameterOfBinaryTree.py) --- [Solution Video](https://www.youtube.com/watch?v=yX1hVhcHcH8&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=24)
+* [No. 543 Diameter of Binary Tree](./543_DiameterOfBinaryTree.py) --- [Solution Video](https://www.youtube.com/watch?v=yX1hVhcHcH8&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=24)
+* [No. 104 Maximum Depth of Binary Tree](./104_MaxDepthOfBinaryTree.py) --- No video, mentioned in [Algo SP12](https://www.youtube.com/watch?v=PbGl8_-bZxI&list=PLLuMmzMTgVK5Hy1qcWYZcd7wVQQ1v0AjX&index=5)
+* [No. 111 Minimum Depth of Binary Tree](./111_MinDepthOfBinaryTree.py) --- No video, mentioned in [Algo SP12](https://www.youtube.com/watch?v=PbGl8_-bZxI&list=PLLuMmzMTgVK5Hy1qcWYZcd7wVQQ1v0AjX&index=5)
+* [No. 112 Path Sum](./112_PathSum.py) --- No video, mentioned in [Algo SP12](https://www.youtube.com/watch?v=PbGl8_-bZxI&list=PLLuMmzMTgVK5Hy1qcWYZcd7wVQQ1v0AjX&index=5)
+* [No. 101 Symmetric Tree](./101_SymmetricTree.py) --- No video, mentioned in [Algo SP12](https://www.youtube.com/watch?v=PbGl8_-bZxI&list=PLLuMmzMTgVK5Hy1qcWYZcd7wVQQ1v0AjX&index=5)
 
 ### Medium
 
@@ -57,6 +64,7 @@
 * [No. 677 Map Sum Pairs](../Design_DataStructure/677_MapSumPairs.py) --- In [Design & Data Structure](../Design_DataStructure)
 * [No. 684 Redundant Connection](./Graph/684_RedundantConnection.py) --- In [Graph](../Graph)
 * [No. 863 All Nodes Distance K in Binary Tree](../Graph/863_AllNodesDistanceKInBinaryTree.py) --- In [Graph](../Graph)
+* [No. 951 Flip Equivalent Binary Trees](./951_FlipEquivalentBinaryTrees.py) --- No video, mentioned in [Algo SP12](https://www.youtube.com/watch?v=PbGl8_-bZxI&list=PLLuMmzMTgVK5Hy1qcWYZcd7wVQQ1v0AjX&index=5)
 
 ### Hard
 
