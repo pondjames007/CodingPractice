@@ -115,4 +115,9 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 
 8/9: [Binary Tree](./BinaryTree) --- [#104](./BinaryTree/104_MaxDepthOfBinaryTree.py), [#111](./BinaryTree/111_MinDepthOfBinaryTree.py), [#112](./BinaryTree/112_PathSum.py), [#101](./BinaryTree/101_SymmetricTree.py), [#951](./BinaryTree/951_FlipEquivalentBinaryTrees.py)
 
-8/12: 
+8/12: [Divide and Conquer](./DivideConquer) --- [#153](./DivideConquer/153_FindMinInRotatedSortedArray.py), [#154](./DivideConquer/154_FindMinInRotatedSortedArrayII.py), [#775](./DivideConquer/775_GlobalLocalInversion.py)
+* [Divide and Conquer](./DivideConquer): **FINISHED**
+
+8/13: [Recursion](./Recursion) --- 
+
+8/14: [Simulation](./Simulation) ---

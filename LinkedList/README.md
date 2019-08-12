@@ -1,7 +1,8 @@
 # Linked List
 
 ## Concepts
-* 
+* Merge Sort top-down (recursive) / bottom-up (iterative)(**DIFFICULT**) -> [#148](./148_SortList.py)
+* Use **heap** to sort, can also use in Array -> [#023](./023_MergeKSortedLists.py)
 
 ## Problems
 
