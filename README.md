@@ -2,7 +2,7 @@
 
 Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.mytechroad.com/blog/)
 
-Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium, String), [$734](https://www.youtube.com/watch?v=KAX277fYKMM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=14)(Easy, HashTable), [$737](https://www.youtube.com/watch?v=0rZUi3kZGLI&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=27)(Medium, Graph), [$683](https://www.youtube.com/watch?v=K8Nk0AiIX4s&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=26)(Hard, BinaryTree), [$742](https://www.youtube.com/watch?v=x1wXkRrpavw&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=22) (Medium, Graph)
+Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium, String), [$734](https://www.youtube.com/watch?v=KAX277fYKMM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=14)(Easy, HashTable), [$737](https://www.youtube.com/watch?v=0rZUi3kZGLI&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=27)(Medium, Graph), [$683](https://www.youtube.com/watch?v=K8Nk0AiIX4s&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=26)(Hard, BinaryTree), [$742](https://www.youtube.com/watch?v=x1wXkRrpavw&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=22) (Medium, Graph), [$681 GOOGLE OA](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=12) (Medium, Simulation), [$683](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=11) (Hard, Simulation), [$755](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=6)
 
 6/24: [String](./String) --- [#848](./String/848_ShiftingLetters.py), [#792](./String/792_NumberOfMatchingSubsequences.py), [#784](./String/784_LetterCasePermutation.py), [#763](./String/763_PartitionLabels.py), [#748](./String/748_ShortestCompletingWord.py), [#720](./String/720_LongestWordInDictionary.py)
 
@@ -118,6 +118,7 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 8/12: [Divide and Conquer](./DivideConquer) --- [#153](./DivideConquer/153_FindMinInRotatedSortedArray.py), [#154](./DivideConquer/154_FindMinInRotatedSortedArrayII.py), [#775](./DivideConquer/775_GlobalLocalInversion.py)
 * [Divide and Conquer](./DivideConquer): **FINISHED**
 
-8/13: [Recursion](./Recursion) --- 
+8/13: [Recursion](./Recursion) --- [#726](./Recursion/726_NumOfAtoms.py), [#736](./Recursion/736_ParseLISPExpression.py), [#464](./464_CanIWin.py), [#856](./Recursion/856_ScoreOfParentheses.py), [#1106](./Recursion/1106_ParsingBoolExpression.py)
+* [Recursion](./Recursion): **FINISHED**
 
-8/14: [Simulation](./Simulation) ---
+8/14: [Simulation](./Simulation) --- [#657](./Simulation/657_RobotReturnToOrigin.py), [#566](./Simulation/566_ReshapeTheMatrix.py), [#682](./Simulation/682_BaseballGame.py), [#461](./Simulation/461_HammingDistance.py), [#735](./Simulation/735_AsteroidCollision.py), [#636](./Simulation/636_ExclusiveTimeOfFunctions.py), [#799](./Simulation/799_ChampagneTower.py)
