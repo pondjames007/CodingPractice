@@ -63,6 +63,9 @@
 * [No. 560 Subarray Sum Equals K](./560_SubarraySumEqualsK.py) --- [Solution Video](https://www.youtube.com/watch?v=POERw4yDVBw&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=9)
 * [No. 567 Permutation in String](./567_PermutationInString.py) --- [Solution Video](https://www.youtube.com/watch?v=bxCb37nLXWM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=6)
 * [No. 525 Contiguous Array](./525_ContiguousArray.py) --- [Solution Video](https://www.youtube.com/watch?v=bxCb37nLXWM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=5)
+* [No. 873 Length of Longest Fibonacci Subsequence](./873_LengthOfLongestFiboSubsequence.py) --- [Solution Video](https://www.youtube.com/watch?v=bxCb37nLXWM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=4)
+* [No. 923 3Sum With Multiplicity](../Math/923_3SumWithMultiplicity.py) --- In [Math](../Math)
+* [No. 1124 Longest Well-Performing Interval](./1124_LongestWellPerformingInterval.py) --- [Solution Video](https://www.youtube.com/watch?v=bxCb37nLXWM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=1)
 
 ### Hard
 

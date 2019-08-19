@@ -2,7 +2,7 @@
 
 Records for my LeetCode coding practice, following [HuaHua's Guide](https://zxi.mytechroad.com/blog/)
 
-Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium, String), [$734](https://www.youtube.com/watch?v=KAX277fYKMM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=14)(Easy, HashTable), [$737](https://www.youtube.com/watch?v=0rZUi3kZGLI&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=27)(Medium, Graph), [$683](https://www.youtube.com/watch?v=K8Nk0AiIX4s&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=26)(Hard, BinaryTree), [$742](https://www.youtube.com/watch?v=x1wXkRrpavw&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=22) (Medium, Graph), [$681 GOOGLE OA](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=12) (Medium, Simulation), [$683](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=11) (Hard, Simulation), [$755](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=6)
+Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSfs&list=PLLuMmzMTgVK49Hph4vV8DAzGZpj4azwmz&index=19)(Medium, String), [$734](https://www.youtube.com/watch?v=KAX277fYKMM&list=PLLuMmzMTgVK48qe6jxrVW-FHNrm7g5mop&index=14)(Easy, HashTable), [$737](https://www.youtube.com/watch?v=0rZUi3kZGLI&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=27)(Medium, Graph), [$683](https://www.youtube.com/watch?v=K8Nk0AiIX4s&list=PLLuMmzMTgVK7ug02DDoQsf50OtwVDL1xd&index=26)(Hard, BinaryTree), [$742](https://www.youtube.com/watch?v=x1wXkRrpavw&list=PLLuMmzMTgVK5gFVMpryw0LkJp4l9WTtdM&index=22) (Medium, Graph), [$681 GOOGLE OA](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=12) (Medium, Simulation), [$683](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=11) (Hard, Simulation), [$755](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=6) (Medium, Simulation)
 
 6/24: [String](./String) --- [#848](./String/848_ShiftingLetters.py), [#792](./String/792_NumberOfMatchingSubsequences.py), [#784](./String/784_LetterCasePermutation.py), [#763](./String/763_PartitionLabels.py), [#748](./String/748_ShortestCompletingWord.py), [#720](./String/720_LongestWordInDictionary.py)
 
@@ -54,7 +54,7 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 * First Review 6/28: [Math](./Math) --- [#633](./Math/633_SumOfSquareNums.py), [#504](./Math/504_Base7.py), [#463](./Math/463_IslandPerimeter.py), [#241](./Math/241_DifferentWaysAddParentheses.py), [#204](./Math/204_CountPrimes.py), [#611](./Math/611_ValidTriangleNum.py)
 
 7/22: [Design & Data Structure](./Design_DataStructure) --- [#895](./Design_DataStructure/895_MaxFreqStack.py), [#745](./Design_DataStructure/745_PrefixSuffixSearch.py), [#715](./Design_DataStructure/715_RangeModule.py), [#460](./Design_DataStructure/460_LFUcache.py)
-* All [Design & Data Structure](./Design_DataStructure) are finished (715, 460 haven't watched the video)
+* [Design & Data Structure](./Design_DataStructure): **FINISHED** (715, 460 haven't watched the video)
 
 7/22: [Graph](./Graph) --- [#399](./Graph/399_EvaluateDivision.py), [#743](./Graph/743_NetworkDelayTime.py)
 
@@ -122,3 +122,12 @@ Premium Problems (Video Link): [$681](https://www.youtube.com/watch?v=vWPCm69MSf
 * [Recursion](./Recursion): **FINISHED**
 
 8/14: [Simulation](./Simulation) --- [#657](./Simulation/657_RobotReturnToOrigin.py), [#566](./Simulation/566_ReshapeTheMatrix.py), [#682](./Simulation/682_BaseballGame.py), [#461](./Simulation/461_HammingDistance.py), [#735](./Simulation/735_AsteroidCollision.py), [#636](./Simulation/636_ExclusiveTimeOfFunctions.py), [#799](./Simulation/799_ChampagneTower.py)
+* [Simulation](./Simulation): Only **HARD** and Premium [$681 GOOGLE OA](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=12) (Medium), [$683](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=11) (Hard), [$755](https://www.youtube.com/watch?v=IAet94C1FCc&list=PLLuMmzMTgVK7nhHbo-hE60XDciDX62HvR&index=6) (Medium) left
+
+8/15: [Math](./Math) --- [#470](./Math/470_ImplementRand10ByRand7.py), [#923](./Math/923_3SumWithMultiplicity.py), [#1017](./Math/1017_ConvertToBaseN2.py)
+* [Math](./Math): Only **HARD** left
+
+8/15: [Hash Table](./HashTable) --- [#873](./HashTable/873_LengthOfLongestFiboSubsequence.py), [#1124](./HashTable/1124_LongestWellPerformingInterval.py)
+* [Hash Table](./HashTable): Only **HARD** left
+
+8/16: [Graph](./Graph) --- [#934](./Graph/934_ShortestBridge.py), [#1129](./Graph/1129_ShortestPathWithAlternatingColors.py)
