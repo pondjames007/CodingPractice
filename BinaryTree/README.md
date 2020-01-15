@@ -12,8 +12,7 @@
     **wrong way**: [[""] * w] * h -> this will make every row become same reference    
 * "{}".format(5) -> "5"
     "{{}}{}".format(5) -> "{}5"
-* **Post order** traversal: use stack, **right tree** append first, then **reverse** the result-> [#113](./113_PathSumII.py), [#145](./145_PostorderTraversal.py)
-    [#112] -> Path Sum I
+* **Post order** traversal: use stack, **right tree** append first, then **reverse** the result-> [#112](./112_PathSum.py), [#113](./113_PathSumII.py), [#145](./145_PostorderTraversal.py)
 * DFS in stack -> one stack will be good (**Preorder**)
 * BFS in stack -> 
     * have 2 stacks, curr and next
